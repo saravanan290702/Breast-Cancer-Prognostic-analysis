@@ -14,5 +14,9 @@ The Highest accuracy is recievced by LightGBM WHICH IS 87.8%, after PCA logistic
 
 ## PowerBI Report
 
-Uploading 230436833-c62896a4-2237-427e-853e-08a1eb508e5e.mp4…
+
+
+https://github.com/saravanan290702/Breast-Cancer-Prognostic-analysis/assets/76428931/e1052d47-2a9a-44e2-a1a0-8977674874d7
+
+
 
