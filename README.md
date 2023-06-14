@@ -7,3 +7,7 @@ The data belongs to UCI and not us. Link to the dataset :
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(Prognostic)
 
 We had got an maximum accuarcy of 87.87% using the lightBGM model. 
+
+PowerBI DashBoard
+Uploading 230436833-c62896a4-2237-427e-853e-08a1eb508e5e.mp4…
+
